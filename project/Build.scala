@@ -23,6 +23,7 @@ object ApplicationBuild extends Build {
           "views\\..*",
           "play\\..*"
         )
+      )
     )
 }
 
